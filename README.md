@@ -1,8 +1,8 @@
 # paramrem
 
-## Tentative application of neuroscience research around impact of music on cognitive function toward improving mental performance via parametric-automated song remix util
+### Tentative application of neuroscience research around impact of music on cognitive function toward improving mental performance via parametric-automated song remix util
 
-## [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]
+### [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]
 
 I'll try my best to explain the workings:
 
