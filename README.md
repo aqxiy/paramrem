@@ -4,7 +4,7 @@
 
 ### [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]
 
-HOSTED here: https://s2stoo.com/ [Press "t" or click within orange box to begin play of song"]
+HOSTED here: https://s2stoo.com/ [Press "t" or click within orange box to begin play of song]
 
 I'll try my best to explain the workings:
 
