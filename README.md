@@ -6,6 +6,8 @@
 
 HOSTED here: https://s2stoo.com/ [Press "t" or click within orange box to begin play of song]
 
+## // 
+
 I'll try my best to explain the workings:
 
 It's parametric-automated functional around controlled sequence RNG method with proven biochem relevant numericals deliberating dynamic modification to volume and speed. In other words, the general idea to advance 1st and last song along fluctuations to volume and speed defined along a special number preset interval pattern with RNG functionality alongside key amplitude breakpoints applied to deciding extent of volume or tempo modification.
