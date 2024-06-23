@@ -30,8 +30,10 @@ RNG-able values for tempo: [.8, .9, 1, 1.1, 1.2]
 
 The playlist version takes alternate approach around a volume advance protocol of [4, 3, 3, 2, 3, 3, 4, 0] and uses RNG-able values for volume and tempo [.43, .465, .5, .535, .57] and [.86, .93, 1, 1.07, 1.14]. Multiplier of .18.
 
-Some neuroscience clippings [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]:
-''Effects of Musical Tempo on Musicians’ and Non-musicians’ Emotional Experience When Listening to Music'' https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6243583/
+
+
+### Some neuroscience clippings [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]:
+### ''Effects of Musical Tempo on Musicians’ and Non-musicians’ Emotional Experience When Listening to Music'' https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6243583/
 
 Medium music activated right HG, MTG, cingulate gyrus, precuneus, IPL, and left STG. "precuneus is a brain region involved in a variety of complex functions,100 which include recollection and memory, integration of information (gestalt) relating to perception of the environment, cue reactivity, mental imagery strategies, episodic memory retrieval, and affective responses to pain"
 
