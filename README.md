@@ -15,7 +15,7 @@ Tentative application of neuroscience research around impact of music on cogniti
 
 I'll try my best to explain the workings:
 
-core concept: Modify volume and speed by RNG decimal +/- 0.0, 0.1, 0.2 % off center, independently determined. Duration of modification assigned by number pattern tied to altered biochem effect.
+core concept: Modify volume and speed by RNG decimal +/- 0.0, 10.0 20.0 % off center, independently determined. Duration of modification assigned by number pattern tied to altered biochem effect.
 
 Protocol for volume:
 
