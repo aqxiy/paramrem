@@ -2,7 +2,7 @@
 
 paramrem.com
 
-### In essence, a simple script that remixes audio, with the interesting side effect of influencing brain function positively.
+In essence, a simple script that remixes audio, with the interesting side effect of influencing brain function positively.
 
 ## // 
 
