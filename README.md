@@ -15,19 +15,17 @@ Tentative application of neuroscience research around impact of music on cogniti
 
 I'll try my best to explain the workings:
 
-It's parametric-automated functional around controlled sequence RNG method with proven biochem relevant numericals deliberating dynamic modification to volume and speed. In other words, the general idea is to advance along fluctuations to volume and speed defined along a special number preset interval pattern with RNG functionality alongside key amplitude breakpoints applied to deciding extent of volume or tempo modification.
-
 So, from code background, in my best working config
 
-advance protocol for volume:
+Duration advance protocol for volume:
 
 [4, 3, 3, 2, 2, 3, 3, 4]
 
-advance protocol for tempo:
+Duration advance protocol for tempo:
 
 [2, 3, 3, 4, 4, 3, 3, 2]
 
-Multiplier on advance protocol applied duration: .25, so scaling 2*.25 gives min interval of .50 seconds
+Multiplier on advance protocol duration is .25, so scaling gives min interval of .50 seconds & max of 1 second.
 
 RNG-able values for volume: [.4, .45, .5, .55, .6]
 
