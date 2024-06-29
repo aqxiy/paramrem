@@ -17,11 +17,13 @@ I'll try my best to explain the workings:
 
 core concept: Modify volume and speed by RNG decimal +/- 0.0, 10.0, or 20.0 % off center, independently determined. Duration of modification assigned by number pattern tied to altered biochem effect.
 
-Protocol for volume:
++- Number patterns:
+
+for volume
 
 [4, 3, 3, 2, 2, 3, 3, 4]
 
-Protocol for tempo:
+for tempo
 
 [2, 3, 3, 4, 4, 3, 3, 2]
 
