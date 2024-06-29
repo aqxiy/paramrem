@@ -15,13 +15,13 @@ Tentative application of neuroscience research around impact of music on cogniti
 
 I'll try my best to explain the workings:
 
-So, from code background, in my best working config
+core concept: Modify volume and speed by RNG decimal +/- 0.0, 0.1, 0.2 % off center, independently determined. Duration of modification assigned by number pattern tied to altered biochem effect.
 
-Duration advance protocol for volume:
+Protocol for volume:
 
 [4, 3, 3, 2, 2, 3, 3, 4]
 
-Duration advance protocol for tempo:
+Protocol for tempo:
 
 [2, 3, 3, 4, 4, 3, 3, 2]
 
