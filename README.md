@@ -1,6 +1,8 @@
 # paramrem
 
-### NOTICE: major bug fix 6/26/2024
+## In essence, a simple script that remixes audio, with the interesting side effect of influencing brain function positively.
+
+## Other Assessments 
 
 ### Tentative application of neuroscience research around impact of music on cognitive function toward improving mental performance via parametric-automated song remix util
 
@@ -12,7 +14,7 @@ HOSTED here: https://www.paramrem.com/ [Press "t" or click within orange box to 
 
 I'll try my best to explain the workings:
 
-It's parametric-automated functional around controlled sequence RNG method with proven biochem relevant numericals deliberating dynamic modification to volume and speed. In other words, the general idea to advance 1st and last song along fluctuations to volume and speed defined along a special number preset interval pattern with RNG functionality alongside key amplitude breakpoints applied to deciding extent of volume or tempo modification.
+It's parametric-automated functional around controlled sequence RNG method with proven biochem relevant numericals deliberating dynamic modification to volume and speed. In other words, the general idea is to advance along fluctuations to volume and speed defined along a special number preset interval pattern with RNG functionality alongside key amplitude breakpoints applied to deciding extent of volume or tempo modification.
 
 So, from code background, in my best working config
 
@@ -29,8 +31,6 @@ Multiplier on advance protocol applied duration: .25, so scaling 2*.25 gives min
 RNG-able values for volume: [.4, .45, .5, .55, .6]
 
 RNG-able values for tempo: [.8, .9, 1, 1.1, 1.2]
-
-The playlist version takes alternate approach around a volume advance protocol of [4, 3, 3, 2, 3, 3, 4, 0] and uses RNG-able values for volume and tempo [.43, .465, .5, .535, .57] and [.86, .93, 1, 1.07, 1.14]. Multiplier of .18.
 
 
 
